@@ -11,6 +11,7 @@ This project implements a real-time stereo camera system capable of capturing sy
 ---
 
 ## Hardware
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/61a204b8-ff5d-45fb-a3a3-3a81d64a7104" />
 
 - **Stereo Camera** – USB stereo camera
 - **Target Platform** – NVIDIA Jetson AGX Xavier (for real-time on-device processing)
