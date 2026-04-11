@@ -1,5 +1,7 @@
 # Real-Time 3D Stereo Camera System
 
+ICS 691D Computational Imaging Final Project
+
 A real-time stereo vision pipeline for 3D depth estimation and point cloud generation, built with the goal of deployment on the NVIDIA Jetson AGX Xavier.
 
 ---
