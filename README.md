@@ -25,6 +25,8 @@ This project implements a real-time stereo camera system capable of capturing sy
 
 ### 1. Camera Calibration
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/91b101cf-e622-4828-b249-f14495c01ce5" />
+
 - Captured multiple images of a calibration checkerboard from different angles and views.
 - Loaded images into [calib.io](https://calib.io) to extract intrinsic and extrinsic calibration parameters.
 - Used the calibration parameters in Python to **rectify** the stereo image pair, aligning both images onto the same plane.
