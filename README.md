@@ -43,6 +43,7 @@ This project implements a real-time stereo camera system capable of capturing sy
 ---
 
 ## Challenges
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/169a16b2-c774-4d78-99f0-ed7e4a7c6073" />
 
 ### NVIDIA Jetson AGX Xavier
 
